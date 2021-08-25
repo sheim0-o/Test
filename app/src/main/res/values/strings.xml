@@ -1,0 +1,17 @@
+<resources>
+    <string name="app_name">MVC</string>
+    <string name="question_text"> Первый вопрос</string>
+    <string name="true_button"> Правда</string>
+    <string name="false_button"> Ложь</string>
+    <string name="next_button"> Дальше</string>
+    <string name="check"> Проверить</string>
+    <string name="question_1"> Москва - столица России</string>
+    <string name="question_2"> 5 умножить на 5=35</string>
+    <string name="question_3"> Вода может быть в трех разных состояниях </string>
+    <string name="question_4"> Сколько сантиметров в метре?</string>
+    <string name="question_5"> Висит груша - нельзя скушать - это...?</string>
+    <string name="correct_toast">Верно!</string>
+    <string name="incorrect_toast">Неверно!</string>
+    <string name="userScoreText">Ваше количество правильных ответов:</string>
+    <string name="maxScoreText">Максимальный результат:</string>
+</resources>
